@@ -1,5 +1,3 @@
-package org.generation.trains;
-
 import java.util.Scanner;
 
 public class CostCalaculator {
